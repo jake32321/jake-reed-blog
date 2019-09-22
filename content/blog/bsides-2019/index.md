@@ -24,7 +24,7 @@ I got to spend a ton of time getting to know some of the people working in InfoS
 
 *For a complete list of the talks visit the [schedule](https://bsidesstl2019.busyconf.com/schedule#activity_5d13959bcd08ded7e20000f5).*
 
- One of my favorite talks given was *Hacking is Dead, Long Live Hacking* by Michael Collins. It was interesting to hear from someone I would consider a veteran in InfoSec talk about their journey through the world of InfoSec. Their talk covered the changing landscape of Hacking over the years and how automation, new technology, etc. has made it more difficult than it once was but at the same time has not killed hacking all together. They also gave one of my favorite demos on *Wardialing* that would have made even David, *Matthew Broderick*, proud. You can see information on the talk [here](https://bsidesstl2019.busyconf.com/activities/5d13959bcd08ded7e20000f5).
+ One of my favorite talks given was *Hacking is Dead, Long Live Hacking* by Michael Collins. It was interesting to hear from someone I would consider a veteran in InfoSec talk about their journey through the world of InfoSec. Their talk covered the changing landscape of hacking over the years and how automation, new technology, etc. has made it more difficult than it once was but at the same time has not killed hacking all together. They also gave one of my favorite demos on *Wardialing* that would have made even David, *Matthew Broderick*, proud. You can see information on the talk [here](https://bsidesstl2019.busyconf.com/activities/5d13959bcd08ded7e20000f5).
 
  ![War Games](https://media.giphy.com/media/jjYGVvxgQSTsc/giphy.gif)
 
