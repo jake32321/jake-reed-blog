@@ -1,7 +1,9 @@
 import React from "react"
 import { Link } from "gatsby"
+import { ThemeToggler } from 'gatsby-plugin-dark-mode'
 
 import { rhythm, scale } from "../utils/typography"
+import "../styles/global.css"
 
 class Layout extends React.Component {
   render() {
@@ -58,6 +60,9 @@ class Layout extends React.Component {
           marginRight: `auto`,
           maxWidth: rhythm(24),
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          backgroundColor: 'var(--bg)',
+          color: 'var(--textNormal)',
+          transition: 'color 1s ease-out'
         }}
       >
         <header>{header}</header>
@@ -67,6 +72,20 @@ class Layout extends React.Component {
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
+        <div>
+          <ThemeToggler>
+            {({ theme, toggleTheme }) => (
+              <label>
+                <input
+                  type="checkbox"
+                  onChange={e => toggleTheme(e.target.checked ? 'dark' : 'light')}
+                  checked={theme === 'dark'}
+                />{' '}
+                Enable Dark Mode
+              </label>
+            )}
+          </ThemeToggler>
+        </div>
       </div>
     )
   }

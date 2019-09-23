@@ -1,0 +1,21 @@
+body {
+    background-color: var(--bg);
+}
+
+body.dark {
+  -webkit-font-smoothing: antialiased;
+
+  --bg: #303030;
+  --textNormal: rgba(255, 255, 255, 0.88);
+  --textTitle: white;
+  --hr: hsla(0, 0%, 100%, 0.2);
+}
+
+body.dark a {
+    color: #F0AD00
+}
+
+body.dark blockquote {
+    color: #ffb600;
+    border-left: 0.32813rem solid #ffb600
+}
