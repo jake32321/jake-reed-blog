@@ -1,6 +1,10 @@
 import React from "react"
 import { Link } from "gatsby"
 import { ThemeToggler } from 'gatsby-plugin-dark-mode'
+import Moon from '../components/moon'
+import Sun from '../components/sun'
+
+import Toggle from 'react-toggle'
 
 import { rhythm, scale } from "../utils/typography"
 import "../styles/global.css"
@@ -76,12 +80,15 @@ class Layout extends React.Component {
           <ThemeToggler>
             {({ theme, toggleTheme }) => (
               <label>
-                <input
-                  type="checkbox"
+                <Toggle
+                  icons={{
+                    checked: <Moon/>,
+                    unchecked: <Sun/>
+                  }}
                   onChange={e => toggleTheme(e.target.checked ? 'dark' : 'light')}
                   checked={theme === 'dark'}
-                />{' '}
-                Enable Dark Mode
+                />
+                <span style={{position: 'absolute', paddingLeft: 10}}> Enable Dark Mode </span>
               </label>
             )}
           </ThemeToggler>
