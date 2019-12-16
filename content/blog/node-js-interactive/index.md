@@ -42,7 +42,7 @@ The night ended with a great dinner with friends from npm, Google, Netflix, and 
 
 ## In Closing 
 
-I feel extremely blessed to be a part of such a great community with amazing people. There wasn't a moment that I didn't feel out of place or like I didn't belong there. I wish there were more communities like this. Ones that foster community, bettering yourself as well as others, and learning something new. I was awesome to have such a great opportunity and I look forward to seeing everyone again. ❤️ Thanks and great work to everyone that made such a great conference happen! 
+I feel extremely blessed to be a part of such a great community with amazing people. There wasn't a moment that I didn't feel out of place or like I didn't belong there. I wish there were more communities like this. Ones that foster community, bettering yourself as well as others, and learning something new. It was awesome to have such a great opportunity and I look forward to seeing everyone again. ❤️ Thanks and great work to everyone that made such a great conference happen! 
 
 > To see the schedule and the confrence site, please go [here](https://events19.linuxfoundation.org/events/nodejs-interactive-2019/program/schedule/)
 
