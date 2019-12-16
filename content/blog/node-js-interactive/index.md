@@ -22,7 +22,7 @@ The keynote opens with a message from Robin Bender Ginn who is the executive dir
 
 _On to the talks!_
 
-After the keynote it's time for some talks! On tried to make it to as many talks as possible. This included everything from making the most of your experience with Node.js to implementing Kubernetes into your application. 
+After the keynote it's time for some talks! I tried to make it to as many talks as possible. This included everything from making the most of your experience with Node.js to implementing Kubernetes into your application. 
 
 One of the best parts of conferences are the networking opportunities. Throughout the day there were a variety breaks that allowed attendees to meet with company representatives as well as fellow developers. Node+JS interactive does not disappoint with these opportunities. Wether it was the many coffee breaks (of which I was a fan of) or a trip to Tim Horton's for some Timbits.
 
