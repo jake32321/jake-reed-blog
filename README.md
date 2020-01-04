@@ -1,4 +1,4 @@
-# personal-site
+# jake-reed-blog
 Jake's personal website and blog for technical and non-technical musings.
 
 ## Running the application
