@@ -12,16 +12,16 @@ body.dark {
 }
 
 body a {
-    color: #69CFA7
+    color: #0f6a8b
 }
 
 body.dark a {
-    color: #F0AD00
+    color: #5795aa
 }
 
 body.dark blockquote {
-    color: #ffb600;
-    border-left: 0.32813rem solid #ffb600
+    color: #5795aa;
+    border-left: 0.32813rem solid #5795aa
 }
 
 .react-toggle {
@@ -79,11 +79,11 @@ body.dark blockquote {
   }
   
   .react-toggle--checked .react-toggle-track {
-    background-color: #F0AD00;
+    background-color: #5795aa;
   }
   
   .react-toggle--checked:hover:not(.react-toggle--disabled) .react-toggle-track {
-    background-color: #ffb600;
+    background-color: #0f6a8b;
   }
   
   .react-toggle-track-check {
@@ -151,7 +151,7 @@ body.dark blockquote {
   
   .react-toggle--checked .react-toggle-thumb {
     left: 27px;
-    border-color: #F0AD00;
+    border-color: #5795aa;
   }
   
   .react-toggle--focus .react-toggle-thumb {
