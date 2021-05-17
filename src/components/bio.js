@@ -55,10 +55,7 @@ const Bio = () => {
       />
       <p>
         A blog by <strong>{author}</strong>. Working at Mastercard in St. Louis.
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a>
+        {` `}You should follow him on <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>.
       </p>
     </div>
   )
